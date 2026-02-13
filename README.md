@@ -1,4 +1,4 @@
-<a href="url"><img src="http://www.economicas.uba.ar/econ2019/wp-content/themes/econ2016/img/ui/logo.png"></a>
+<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo-FCE.png" height=100></a>
 
 # ¿Es el proyecto de Economía de Comunión capaz de producir el cambio social prometido? Puesta a prueba en la realidad Argentina de una propuesta de economía alternativa que crece en el mundo.
 
